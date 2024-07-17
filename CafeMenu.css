@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1303583671/photo/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=1024x1024&w=is&k=20&c=f-lsA-A5AKC8qdi0wp4sEoF1Ay7raH23M4T8xyHr0sY=);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  h2 {
+    font-size: 40px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    width: 200px;  /* Set the desired width */
+    height: 200px;
+  }
